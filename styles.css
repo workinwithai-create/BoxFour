@@ -78,3 +78,4 @@ meter{width:140px;height:18px}
 .take.sel{box-shadow:0 0 0 1px #7fb3a8}
 button.rec.recording,.dock button.rec.recording{background:#c84b3c;color:#fff;border-color:#c84b3c}
 .sorter small{text-transform:none;letter-spacing:0}
+.kbrow[hidden]{display:none}
